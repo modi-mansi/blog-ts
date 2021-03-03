@@ -1,0 +1,10 @@
+{
+  "database": "blog",
+  "username": "root",
+  "password": "",
+  "params": {
+    "host": "localhost",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
